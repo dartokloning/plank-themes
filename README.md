@@ -1,5 +1,4 @@
 #Plank Themes
-->![Gotta Catch 'Em All](screenshots/slogan.png)
 fork it!
 
 ##Install all themes:
