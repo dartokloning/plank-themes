@@ -1,0 +1,5 @@
+#Plank Themes
+## fork it !
+
+#Install a theme:
+`sudo mv path_of_theme /usr/share/plank/themes`
