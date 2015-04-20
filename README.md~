@@ -1,8 +1,11 @@
-#Plank Themes - Gotta Catch 'Em All
+#Plank Themes
 fork it!
 
-#Install all themes:
+##Install all themes:
 `./install.sh`
+
+## Install a single theme:
+`sudo cp -av ./path_to_theme /usr/share/plank/themes/`
 
 #eLight
 ![elight plank theme](screenshots/elight.png)
