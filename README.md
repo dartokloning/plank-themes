@@ -1,8 +1,12 @@
 #Plank Themes
-## fork it !
+->![Gotta Catch 'Em All](screenshots/slogan.png)
+fork it!
 
-#Install all themes:
+##Install all themes:
 `./install.sh`
+
+## Install a single theme:
+`sudo cp -av ./path_to_theme /usr/share/plank/themes/`
 
 #eLight
 ![elight plank theme](screenshots/elight.png)
@@ -14,7 +18,7 @@ by CassidyJames at:
 ![glass-pill plank theme](screenshots/glass-pill.png)
 http://cassidyjames.deviantart.com/art/Glass-Pill-theme-for-Plank-217294064
 
-#tTranslucent Panel
+#Translucent Panel
 ![translucent-panel plank theme](screenshots/translucent-panel.png)
 by robotswillkillyou at:
 http://robotswillkillyou.deviantart.com/art/translucent-Panel-for-plank-dock-yosemite-like-483065945
